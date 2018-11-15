@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebCustomizeTabControlViewController.cs](./CS/E372.Module.Web/WebCustomizeTabControlViewController.cs) (VB: [WebCustomizeTabControlViewController.vb](./VB/E372.Module.Web/WebCustomizeTabControlViewController.vb))
+* [WinCustomizeTabControlViewController.cs](./CS/E372.Module.Win/WinCustomizeTabControlViewController.cs) (VB: [WinCustomizeTabControlViewController.vb](./VB/E372.Module.Win/WinCustomizeTabControlViewController.vb))
+<!-- default file list end -->
 # How to access a tab control in a Detail View layout
 
 
