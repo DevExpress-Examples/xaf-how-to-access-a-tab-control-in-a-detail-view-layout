@@ -13,6 +13,10 @@
 
 
 <p><strong>Scenario</strong><br> This example demonstrates how to implement a View Controller that will access layout controls and customize them as required. In particular, the second tab in the tab control should become active when opening the detail form.<br><br></p>
+
+<img width="601" alt="Du2Er0SPZV" src="https://user-images.githubusercontent.com/14300209/226934893-008269a8-66b7-4f3e-a04a-d1a000d86e83.png">
+
+
 <p><strong>Steps to implement</strong></p>
 <p><strong>1.</strong> This functionality is implemented in the <em>WinCustomizeTabControlViewController</em> class that is added into the WinForms application projects (copy these classes into the respective projects of your test solution). 
 <p><strong>2.</strong> To identify the layout element by the "TabbedGroup" string, make sure this identifier is specified under the Views | YourBusinessObject_DetailView | Layout node in the Model Editor invoked for the YourSolutionName.Module/<em>Model.DesignedDiffs.xafml</em> file.<br>
