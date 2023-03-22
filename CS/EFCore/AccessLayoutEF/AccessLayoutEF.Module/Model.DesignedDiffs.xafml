@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="AccessLayoutEF">
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="22.2.4.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="Contact_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="6.4927857935627085">
+            <LayoutGroup Id="Contact" RelativeSize="100">
+              <LayoutItem Id="FirstName" RelativeSize="37.60683760683761" />
+              <LayoutItem Id="LastName" RelativeSize="27.35042735042735" />
+              <LayoutItem Id="BirthDate" RelativeSize="35.042735042735046" Index="2" />
+              <LayoutItem Id="Age" RelativeSize="22.388059701492537" Removed="True" />
+            </LayoutGroup>
+          </LayoutGroup>
+          <TabbedGroup Id="MyTabbedGroup" CaptionLocation="Top" Index="1" RelativeSize="93.5072142064373" IsNewNode="True">
+            <LayoutGroup Id="MyTasks_Group" ShowCaption="True" Caption="My Tasks" Index="0" RelativeSize="100" IsNewNode="True">
+              <LayoutItem Id="MyTasks" ViewItem="MyTasks" Index="0" RelativeSize="100" IsNewNode="True" />
+            </LayoutGroup>
+            <LayoutGroup Id="Active Tab" ShowCaption="True" CaptionLocation="Top" Direction="Vertical" Index="1" RelativeSize="100" Caption="Active Tab" IsNewNode="True">
+              <LayoutItem Id="Age" ViewItem="Age" Index="0" RelativeSize="100" IsNewNode="True" />
+            </LayoutGroup>
+          </TabbedGroup>
+          <LayoutGroup Id="MyTasks_Group" Removed="True" />
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

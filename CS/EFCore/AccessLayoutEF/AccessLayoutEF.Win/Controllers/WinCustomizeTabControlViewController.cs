@@ -14,7 +14,7 @@ namespace AccessLayout.Win {
             layoutManager.LayoutCreated += OnLayoutCreated;
         }
         void OnItemCreated(object sender, ItemCreatedEventArgs e) {
-            // Check this Id in the AccessLayout.Module/Model.DesignedDiffs.xafml file
+            // Check this Id in the AccessLayoutEF.Module/Model.DesignedDiffs.xafml file
             if (e.ModelLayoutElement.Id == "MyTabbedGroup") {
                 tabbedGroup = (TabbedControlGroup)e.Item;
             }
