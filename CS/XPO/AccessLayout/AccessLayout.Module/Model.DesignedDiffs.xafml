@@ -18,7 +18,7 @@
             <LayoutGroup Id="Tasks_Group" ShowCaption="True" Caption="Tasks" Index="0" RelativeSize="100" IsNewNode="True">
               <LayoutItem Id="Tasks" ViewItem="Tasks" Index="0" RelativeSize="100" IsNewNode="True" />
             </LayoutGroup>
-            <LayoutGroup Id="Item2" ShowCaption="True" CaptionLocation="Top" Direction="Vertical" Index="1" RelativeSize="100" Caption="Active Group" IsNewNode="True">
+            <LayoutGroup Id="Active Tab" ShowCaption="True" CaptionLocation="Top" Direction="Vertical" Index="1" RelativeSize="100" Caption="Active Tab" IsNewNode="True">
               <LayoutItem Id="Age" ViewItem="Age" Index="0" RelativeSize="100" IsNewNode="True" />
             </LayoutGroup>
           </TabbedGroup>
