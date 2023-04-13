@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessLayoutEF.Module", "Ac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessLayoutEF.Win", "AccessLayoutEF.Win\AccessLayoutEF.Win.csproj", "{5C231982-A6C0-4A79-ACCD-E5393A48E19E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessLayoutEF.Blazor.Server", "AccessLayoutEF.Blazor.Server\AccessLayoutEF.Blazor.Server.csproj", "{C9B054FF-585F-41BF-97E4-A583BA35A421}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,12 @@ Global
 		{5C231982-A6C0-4A79-ACCD-E5393A48E19E}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
 		{5C231982-A6C0-4A79-ACCD-E5393A48E19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C231982-A6C0-4A79-ACCD-E5393A48E19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B054FF-585F-41BF-97E4-A583BA35A421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B054FF-585F-41BF-97E4-A583BA35A421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B054FF-585F-41BF-97E4-A583BA35A421}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{C9B054FF-585F-41BF-97E4-A583BA35A421}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{C9B054FF-585F-41BF-97E4-A583BA35A421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B054FF-585F-41BF-97E4-A583BA35A421}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
