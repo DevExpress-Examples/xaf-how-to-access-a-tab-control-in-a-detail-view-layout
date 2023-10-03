@@ -4,7 +4,8 @@
 <!-- default badges end -->
 # How to access a tab control in a Detail View layout
 
-This example demonstrates how to implement a View Controller that accesses layout controls and customize them as required. In particular, the second tab in the tab control should become active when the detail form is opened.
+This example implements a View Controller that accesses layout controls and customizes them as required. In particular, the second tab in the tab control should become active when the detail form is opened.
+
 
 **WinForms** 
 
