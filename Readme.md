@@ -2,7 +2,8 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E372)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# How to access a tab control in a Detail View layout
+# XAF - How to access a tab control in a Detail View layout
+
 
 This example implements a View Controller that accesses layout controls and customizes them as required. In particular, the second tab in the tab control should become active when the detail form is opened.
 
