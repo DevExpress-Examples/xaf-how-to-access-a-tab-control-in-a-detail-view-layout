@@ -18,7 +18,8 @@ This example implements a View Controller that accesses layout controls and cust
 
 ## Implementation Details
 
-1. This functionality is implemented in the [WinCustomizeTabControlViewController.cs](./CS/EFCore/AccessLayoutEF/AccessLayoutEF.Win/Controllers/WinCustomizeTabControlViewController.cs) and [BlazorCustomizeTabControlViewController.cs](./CS/EFCore/AccessLayoutEF/AccessLayoutEF.Blazor.Server/Controllers/BlazorCustomizeTabControlViewController.cs) classes, added to the WinForms and Blazor application projects respectively. Copy these classes to the appropriate projects in your test solution.
+1. This functionality is implemented in the [WinCustomizeTabControlViewController.cs](./CS/EFCore/AccessLayoutEF/AccessLayoutEF.Win/Controllers/WinCustomizeTabControlViewController.cs) and [BlazorCustomizeTabControlViewController.cs](./CS/EFCore/AccessLayoutEF/AccessLayoutEF.Blazor.Server/Controllers/BlazorCustomizeTabControlViewController.cs) classes, added to the WinForms and Blazor application projects respectively. Copy these classes to the corresponding projects in your test solution.
+
 2. To identify the layout element by the **MyTabbedGroup** string, make sure this identifier is specified under the **Views | YourBusinessObject_DetailView | Layout** node in the Model Editor (invoked for the _YourSolutionName.Module/Model.DesignedDiffs.xafml_ file).
 
 
