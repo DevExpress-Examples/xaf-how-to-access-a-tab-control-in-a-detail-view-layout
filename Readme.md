@@ -39,7 +39,7 @@ This example implements a View Controller that accesses layout controls and cust
 * [XAF - How to show the number of nested List View items in tab captions](https://github.com/DevExpress-Examples/XAF-How-to-show-the-number-of-nested-list-views-items-in-tab-captions)
 * [How to set active tab in a Web DetailView layout after executing an Action](https://supportcenter.devexpress.com/ticket/details/t586150/how-to-set-active-tab-in-a-web-detailview-layout-after-executing-an-action)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-how-to-access-a-tab-control-in-a-detail-view-layout&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-how-to-access-a-tab-control-in-a-detail-view-layout&~~~was_helpful=no)
 
