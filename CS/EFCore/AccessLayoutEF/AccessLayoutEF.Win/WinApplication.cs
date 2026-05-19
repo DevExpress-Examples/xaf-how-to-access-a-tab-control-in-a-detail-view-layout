@@ -18,7 +18,6 @@ public class AccessLayoutEFWindowsFormsApplication : WinApplication {
 		SplashScreen = new DXSplashScreen(typeof(XafSplashScreen), new DefaultOverlayFormOptions());
         ApplicationName = "AccessLayoutEF";
         CheckCompatibilityType = DevExpress.ExpressApp.CheckCompatibilityType.DatabaseSchema;
-        UseOldTemplates = false;
         DatabaseVersionMismatch += AccessLayoutEFWindowsFormsApplication_DatabaseVersionMismatch;
         CustomizeLanguagesList += AccessLayoutEFWindowsFormsApplication_CustomizeLanguagesList;
     }
